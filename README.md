@@ -1,4 +1,4 @@
-#Create docker images with docker compose yaml
+# Create docker images with docker compose yaml
 
 - Pull zookeeper image from docker hub
 - Pull kafka image from docker hub
